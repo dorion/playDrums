@@ -1,6 +1,6 @@
 {
   "name": "playdrums-ng",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Multibrowser test automation framework wrapper for Gauge",
   "scripts": {
     "test": "node server.js",
@@ -8,7 +8,6 @@
   },
   "dependencies": {
     "playwright": "1.16.3",
-    "playwright-core": "1.16.3",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
@@ -21,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sarut0bi/playDrums.git"
+    "url": "git+https://github.com/dorion/playDrums.git"
   },
   "keywords": [
     "testing",
