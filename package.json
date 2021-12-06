@@ -1,13 +1,13 @@
 {
   "name": "playdrums-ng",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Multibrowser test automation framework wrapper for Gauge",
   "scripts": {
     "test": "node server.js",
     "doc": "documentation build lib/playdrums.js -f md --shallow -o api.md --markdown-toc=false"
   },
   "dependencies": {
-    "playwright": "1.16.3",
+    "playwright": "1.17.1",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
